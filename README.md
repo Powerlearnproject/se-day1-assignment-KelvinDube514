@@ -41,19 +41,22 @@ The maintenance phase includes three main functions including fixes for problems
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. 
 
 Two relevant frameworks in software development project management include Waterfall and Agile which feature different organizational principles and respective implementation conditions.
-**Waterfall Methodology**:
+
+Waterfall Methodology:
 The methodology follows a linear order of five defined development phases (Requirements, Design, Implementation, Verification, Maintenance) in sequence. This methodology demands detailed documentation together with fixed scope yet finding modifications becomes challenging to implement and costs might increase.
 The waterfall methodology provides several main benefits including clear structure for fixed requirements together with easy progress evaluation and simple approaches and clarity for developers.
 Regular industries (healthcare and finance) alongside infrastructure development and maintenance tasks that involve known specifications are best managed using this method.
-**Agile Methodology**:
+
+Agile Methodology:
 This method features iterative development with incremental activities while it accepts changing requirements and allows continuous member and stakeholder participation through feedback.
 The method engages customers while enabling real-time project modifications which increases quality through regular tests and provides flexibility to adapt to project changes as it develops.
 The methodology suits new ventures operating in unstable markets and projects that need user feedback for software development and creative tasks which benefit from many rounds of revisions.
-**Comparison Summary**:
+
+Comparison Summary:
 AGIC uses iterative processes yet Waterfall implements linear development approaches.
 The Waterfall methodology makes change implementation challenging whereas Agile methodology welcomes changes without reluctance.
 The documentation process for Waterfall projects requires excessive documentation yet Agile projects emphasize complete software functionality over documentation practices.
-- **Customer Involvement**: Limited in Waterfall vs. continuous in Agile.
+- Customer Involvement: Limited in Waterfall vs. continuous in Agile.
 The development approach for Waterfall follows a stage-by-stage progression yet Agile works through a series of development cycles called sprints.
 Projects requiring clear and stable requirements should use Waterfall whereas Agile works best for projects dealing with high uncertainty alongside requirements for flexibility and active customer involvement. Decision-making for project methodology should base itself on the project features as well as team collaboration dynamics and regulatory framework and client expectations.
 
