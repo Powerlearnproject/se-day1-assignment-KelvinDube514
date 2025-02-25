@@ -15,33 +15,25 @@ The NATO Software Engineering Conference in 1968 introduced software engineering
 Agile Manifesto emerged in 2001 to establish people and interaction values above documented processes and provide adaptability which shaped current approaches to software development and management.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Software Development Phases
-
 Planning:
 The software development process begins by defining project scope together with its objectives and feasibility considerations.
 The team member performs stakeholder requirement collection and runs a cost-benefit analysis.
 • Determines required resources.
-
 Requirements Analysis:
 The process collects exact administrative requirements together with all non-functional specifications.
 Software developers establish necessary documents and build prototypes from requirements.
-
 Design:
 A team produces building specifications for the software solution during this phase.
 • Outlines system architecture, data structures, user interfaces, and modules.
-
 Implementation (or Coding):
 The process of converting design specifications results in a full functioning system implementation.
 System implementation demands joint work by developers who need to utilize programming tools and version tracking platforms.
-
 Testing:
 • Identifies and fixes defects.
 • Uses various testing methods.
-
 Deployment:
 The end-user receives training from the technician to properly configure and implement the installed software.
 • May involve gradual deployment.
-
 Maintenance:
 • Supports the software post-deployment.
 The maintenance phase includes three main functions including fixes for problems in addition to updates and new feature integration.
