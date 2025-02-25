@@ -15,16 +15,7 @@ The NATO Software Engineering Conference in 1968 introduced software engineering
 Agile Manifesto emerged in 2001 to establish people and interaction values above documented processes and provide adaptability which shaped current approaches to software development and management.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
-Overview of the Software Development Life Cycle (SDLC)
- Timetables together with budgetary restrictions and available resources are established by planners during the development phase.  A comprehensive project planning is established.
- • Conditions  Collecting and Analyzing: Collects specific needs from interested parties.  Analysis of obtained data leads to the creation of a comprehensive requirements specification paper by analytical experts.
- User interface development together with software architecture creation takes place during this stage.  A design specification paper serves as a common end result from this work process.
- Actual programming that follows design standards in order to create products is known as implementation (coding). Version control systems administer changes.
- The development of unit tests remains achievable for software programmers.
- Testing applications employ multiple approaches to search and repair existing issues.
- Unit training must be followed by system configuration and deployment processes.
- Software maintenance refers to both bug repairs and additional feature integration while guaranteeing system compatibility with evolving environments. The process is outlined in .  Stakeholder
+Organizations use the Software Development Life Cycle (SDLC) as their method to build software applications following a structured approach. The multiple stages of this system play essential parts throughout the development procedure. During planning the project receives its scope definition alongside its objectives yet analysis obtains requirements to grasp user needs accurately. During the design phase the system's technical architecture develops through creation of both high-level and low-level specifications. The development phase requires programmers to construct code through unit testing. Testing methodologies help the phase identify and resolve defects during evaluation. During the deployment phase users receive training about the system after software installations take place in the production environment. During maintenance activities the system undergoes continuous monitoring followed by bug repair and the addition of system improvements. System decommissioning starts during the retirement phase as the process leads users to newer system platforms.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. 
 
