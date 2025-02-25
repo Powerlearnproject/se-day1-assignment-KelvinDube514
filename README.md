@@ -15,13 +15,36 @@ The NATO Software Engineering Conference in 1968 introduced software engineering
 Agile Manifesto emerged in 2001 to establish people and interaction values above documented processes and provide adaptability which shaped current approaches to software development and management.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Organizations employ Software Development Life Cycle (SDLC) as their system to create software applications through a structured development procedure.
-The multiple stages of this system play essential parts throughout the development procedure. 
-During planning the project defines both scope and objectives but analysis gathers requirements for precise user need understanding. System technical architecture matures through the production of both high-level and low-level specifications within the design phase. 
-Through unit testing programmers operate during the development phase to build program code. Testing methodologies enable the phase to locate and correct defects which are present in the evaluation phase. 
-Training about the system and installations occur in the production environment before users receive information during the deployment phase. 
-The system experiences ongoing monitoring during maintenance so maintenance teams can handle bug fixes and implement system betterments. 
-System decommissioning begins in the retirement phase because the process directs users toward newer system platforms.
+Software Development Phases
+
+Planning:
+The software development process begins by defining project scope together with its objectives and feasibility considerations.
+The team member performs stakeholder requirement collection and runs a cost-benefit analysis.
+• Determines required resources.
+
+Requirements Analysis:
+The process collects exact administrative requirements together with all non-functional specifications.
+Software developers establish necessary documents and build prototypes from requirements.
+
+Design:
+A team produces building specifications for the software solution during this phase.
+• Outlines system architecture, data structures, user interfaces, and modules.
+
+Implementation (or Coding):
+The process of converting design specifications results in a full functioning system implementation.
+System implementation demands joint work by developers who need to utilize programming tools and version tracking platforms.
+
+Testing:
+• Identifies and fixes defects.
+• Uses various testing methods.
+
+Deployment:
+The end-user receives training from the technician to properly configure and implement the installed software.
+• May involve gradual deployment.
+
+Maintenance:
+• Supports the software post-deployment.
+The maintenance phase includes three main functions including fixes for problems in addition to updates and new feature integration.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. 
 
